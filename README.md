@@ -32,7 +32,11 @@ The mobile frontend is built in Flutter. The backend is an Express.js API server
 - Teacher communication (in-app messaging or email fallback)
 - Export reports (PDF/CSV)
 
- 
+ <img width="1010" height="2190" alt="Image" src="https://github.com/user-attachments/assets/e48a2663-27f4-40d5-8614-acd9f63b2d4e" />
+<img width="1080" height="2111" alt="Image" src="https://github.com/user-attachments/assets/aa5b93de-2a5a-4598-a566-9a83c804bae1" />
+<img width="1080" height="2111" alt="Image" src="https://github.com/user-attachments/assets/b87c3415-5380-4b8d-92fa-e346f13777db" />
+<img width="1080" height="2156" alt="Image" src="https://github.com/user-attachments/assets/bf6c9c64-ed5b-4f09-8f20-bd008445e814" />
+<img width="1080" height="2111" alt="Image" src="https://github.com/user-attachments/assets/f81da34e-dbff-496d-a28a-1d72ff1ef8bb" />
 ## System Architecture
 
 High-level components:
